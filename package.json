@@ -7,6 +7,13 @@
   "author": "Hector Leon Zarco Garcia <hezarco@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@atlaskit/badge": "^9.0.1",
+    "@atlaskit/button": "^9.0.2",
+    "@atlaskit/checkbox": "^4.0.0",
+    "@atlaskit/datetime-picker": "^6.0.1",
+    "@atlaskit/field-radio-group": "^4.0.1",
+    "@atlaskit/field-text": "^7.0.1",
+    "@atlaskit/field-text-area": "^4.0.1",
     "ts-react-toolbox": "^0.1.12"
   },
   "engines": {
@@ -33,6 +40,8 @@
   ],
   "keywords": [],
   "dependencies": {
-    "react-cristal": "^0.0.2"
+    "react-cristal": "^0.0.11",
+    "react-cute": "^0.0.2",
+    "styled-components": "^3.3.3"
   }
 }
